@@ -1,0 +1,14 @@
+/Users/macbookpro/Desktop/GitHub/Pokemones/bin/Debug/net8.0/Pokemones
+/Users/macbookpro/Desktop/GitHub/Pokemones/bin/Debug/net8.0/Pokemones.deps.json
+/Users/macbookpro/Desktop/GitHub/Pokemones/bin/Debug/net8.0/Pokemones.runtimeconfig.json
+/Users/macbookpro/Desktop/GitHub/Pokemones/bin/Debug/net8.0/Pokemones.dll
+/Users/macbookpro/Desktop/GitHub/Pokemones/bin/Debug/net8.0/Pokemones.pdb
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.AssemblyInfo.cs
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.dll
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/refint/Pokemones.dll
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.pdb
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/Pokemones.genruntimeconfig.cache
+/Users/macbookpro/Desktop/GitHub/Pokemones/obj/Debug/net8.0/ref/Pokemones.dll
